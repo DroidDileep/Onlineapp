@@ -1,2 +1,2 @@
 # Onlineapp
-oursera learning and testing repo
+coursera learning and testing repo
